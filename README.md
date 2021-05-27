@@ -5,11 +5,11 @@ Pequeno projeto desenvolvido para estudos, pela plataforma :  https://web.digita
 
 ## 🚀 Começando
 
-Para aprendizagens de como fazer uma página responsiva, esse conteúdo poderá ajudar e estilizar mais no CSS#
+Para aprendizagens de como fazer uma página responsiva, esse conteúdo poderá ajudar e estilizar mais no CSS3
 
 ### 🔧 Instalação
 
-Pode ser baixo em qualquer máquina 
+Pode ser feito o downloado em qualquer máquina 
 
 
 ## 📄 Licença
