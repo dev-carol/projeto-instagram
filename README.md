@@ -12,10 +12,6 @@ Para aprendizagens de como fazer uma página responsiva, esse conteúdo poderá 
 Pode ser feito o downloado em qualquer máquina 
 
 
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
-
 ## 🎁 Expressões de gratidão
 
 * Conte a outras pessoas sobre este projeto 📢
